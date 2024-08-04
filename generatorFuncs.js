@@ -1,1 +1,1 @@
-// By the way I shall push code coming time.
+// generatorFuncs are used to write precise and accurate code 
