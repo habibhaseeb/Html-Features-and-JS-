@@ -1,1 +1,1 @@
-// generatorFuncs are used to write precise and accurate code 
+// generatorFuncs are used to write precise and accurate code and used to retrieve value from specific time like to access two or three values except the all values. 
