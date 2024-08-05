@@ -1,1 +1,8 @@
-// generatorFuncs are used to write precise and accurate code and used to retrieve value from specific time like to access two or three values except the all values. 
+// function getValue(a){
+   for(let i = 0; i<=20; i++)
+ let name = 'habib';
+ const check = name[i];
+  a = yield check;
+}
+getValue();
+ console.log(a.next().value);
