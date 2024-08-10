@@ -4,5 +4,6 @@
  const check = name[i];
   a = yield check;
 }
+
 getValue();
- console.log(a.next().value); 
+  console.log(a.next().value); 
